@@ -1,2 +1,0 @@
-# dashboard-practica
-Dashboard entrevistas
